@@ -6,3 +6,4 @@ a four-letter alphabet consisting of A, C, G and T.
 Each word in the list must differ from every other word in the list in at least three positions.
 
 Solution is done in two programming language in two different type of way. I used python to solve the problem and also I used C++ programming language to solve the problem.
+Pyhton code can be run in Jupyter notebook or Google colab and C++ code can be run on the C++ Shell online.
